@@ -1,9 +1,9 @@
-const authorization = (req, res, next) => {
-  if (!req.session.logged_in) {
-    res.redirect("/login");
-  } else {
-    next();
-  }
-};
+// const authorization = (req, res, next) => {
+//   if (!req.session.logged_in) {
+//     res.redirect("/login");
+//   } else {
+//     next();
+//   }
+// };
 
-module.exprots = authorization;
+// module.exprots = authorization;
