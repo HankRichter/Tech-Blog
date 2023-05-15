@@ -6,4 +6,4 @@
 //   }
 // };
 
-// module.exprots = authorization;
+// module.exports = authorization;
